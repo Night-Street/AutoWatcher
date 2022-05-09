@@ -134,4 +134,4 @@ settings.gradle
 /__pycache__
 
 # webdrivers
-webdrivers/*
+webdrivers/*.exe
