@@ -1,0 +1,6 @@
+# url=<string>           带有"查看课件"按钮的页面链接
+# watch_interval=<int>   幻灯片观看间隔(每隔若干秒切换到下一张幻灯片)
+# login_buffer=<int>     登录缓冲时间(预留若干秒用于扫码登录)
+url: "https://changjiang.yuketang.cn/v2/web/studentCards/8882409/1862685/11102710?cid=2330662"
+watch_interval: 5
+login_buffer: 15
