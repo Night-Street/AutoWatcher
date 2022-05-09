@@ -6,7 +6,7 @@
 
 webdrivers -- chromedriver.exe or msedgedriver.exe
 
-# 下载地址
+# 浏览器驱动下载地址
 
 chromedriver: https://chromedriver.chromium.org/
 
